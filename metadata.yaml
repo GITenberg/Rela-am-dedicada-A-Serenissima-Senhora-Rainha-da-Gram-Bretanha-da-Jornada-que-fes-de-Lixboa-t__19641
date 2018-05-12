@@ -1,0 +1,29 @@
+_repo: Rela-am-dedicada-A-Serenissima-Senhora-Rainha-da-Gram-Bretanha-da-Jornada-que-fes-de-Lixboa-t__19641
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fonseca, Sebastião da
+    alias: Fonseca, Sebastiao da
+    birthdate: 1625
+    deathdate: 1705
+    gutenberg_agent_id: '8791'
+    url: http://www.gutenberg.org/2009/agents/8791
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2006-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19641'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Relaçam dedicada A Serenissima Senhora Rainha da Gram Bretanha da Jornada que
+  fes de Lixboa the Por-ts Mouth
+url: http://www.gutenberg.org/ebooks/19641
