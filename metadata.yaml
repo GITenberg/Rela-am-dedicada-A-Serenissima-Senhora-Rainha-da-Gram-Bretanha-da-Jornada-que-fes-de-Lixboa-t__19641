@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8791'
     url: http://www.gutenberg.org/2009/agents/8791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19641#Rela-am-dedicada-A-Serenissima-Senhora-Rainha-da-Gram-Bretanha-da-Jornada-que-fes-de-Lixboa-t_
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2006-10-27'
 gutenberg_type: Text
